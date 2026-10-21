@@ -15,7 +15,7 @@ GIMWAF (Genetically Imputed Microbiome-Wide Association Framework) is a framewor
   This framework enables a powerful, integrative approach to uncovering host–microbiome interactions underlying complex diseases.
 
 
-[GIMWAF](GIMWAF_Overview.png)
+![GIMWAF](GIMWAF_Overview.png)
 
 ## Install
 
