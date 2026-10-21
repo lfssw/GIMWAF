@@ -12,11 +12,10 @@ GIMWAF (Genetically Imputed Microbiome-Wide Association Framework) is a framewor
   Instead of modeling SNP effects independently, GIMWAF constructs microbiome-informed genetic similarity kernels that aggregate the marginal effects of selected SNPs, weighted by their association strength. This kernel matrix serves as a data-driven representation of host genetic variation relevant to each microbial trait.
 - Variance-Component Score Testing:  
   Finally, GIMWAF applies a variance-component score test to evaluate whether genetically imputed microbiome variation is associated with the disease phenotype.  
-  This framework enables a powerful, integrative approach to uncovering host–microbiome interactions underlying complex diseases.  
-    
-    
-  [GIMWAF](GIMWAF_Overview.png)  
+  This framework enables a powerful, integrative approach to uncovering host–microbiome interactions underlying complex diseases.
 
+
+[GIMWAF](GIMWAF_Overview.png)
 
 ## Install
 
@@ -72,17 +71,15 @@ java -jar GIMWAF.jar GIMWAF -format plink -input_genotype EXAMPLE/plink_format/e
 
 ## Citations
 
-If you use the software implementation in analysis, please cite the original manuscript associated with this codebase:  
-  
-**GIMWAF: A genetically informed microbiome-wide association framework identifies microbial features associated with renal cell carcinoma, Fei Li, Guoli Xiao, Min Tian, Yulin Yue, Chen Cao.**  
+If you use the software implementation in analysis, please cite the original manuscript associated with this codebase:
 
+**GIMWAF: A genetically informed microbiome-wide association framework identifies microbial features associated with renal cell carcinoma, Fei Li, Guoli Xiao, Min Tian, Yulin Yue, Chen Cao.**
 
 ## Contacts
 
-Fei Li: <lifeiwsy@outlook.com>  
-  
-Chen Cao: <caochen@njmu.edu.cn>  
+Fei Li: <lifeiwsy@outlook.com>
 
+Chen Cao: <caochen@njmu.edu.cn>
 
 ## License
 
